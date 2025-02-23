@@ -33,7 +33,7 @@ MovieApp is a simple and user-friendly application that allows users to browse a
 8.  Top billed cast with their names, character names, and photos
 
 # Installation
-1.  Clone the repository: git clone https://github.com/yourusername/MovieApp.git
+1.  Clone the repository: git clone https://github.com/shakti8400/MovieApp.git
 2.  Navigate to the project : MovieApp  
 3.  Open the project in Xcode: open MovieApp.xcodeproj
 4.  Run the app on a simulator or physical device.
